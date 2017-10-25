@@ -1,0 +1,21 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "angular 4 example",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabrail/angularExampe.git"
+  },
+  "author": "Jabrail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jabrail/angularExampe/issues"
+  },
+  "homepage": "https://github.com/jabrail/angularExampe#readme"
+}
